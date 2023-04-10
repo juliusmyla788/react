@@ -8,7 +8,7 @@ React2 is a JavaScript library for building user interfaces.
 
 [Learn how to use React in your project](https://reactjs.org/docs/getting-started.html).
 
-## Installation
+## Installation2
 
 React has been designed for gradual adoption from the start, and **you can use as little or as much React as you need**:
 
